@@ -1,15 +1,8 @@
 <html>
 <head>
-  <title>常用网站</title>
   <basefont face="微软雅黑" size="2" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   <meta name="exporter-version" content="Evernote Windows/305825 (zh-CN, DDL); Windows/10.0.10586 (Win64);"/>
-  <style>
-    body, td {
-      font-family: 微软雅黑;
-      font-size: 10pt;
-    }
-  </style>
 </head>
 <body>
 <a name="374"/>
